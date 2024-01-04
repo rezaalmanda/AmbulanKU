@@ -3,6 +3,10 @@ Direktori kontak ambulan di Indonesia
 <br>
 Bisa bantu kamu cari ambulan paling dekat dari rumah
 
+##Niat
+- Membantu akses warga ke penyedia ambulan terdekat di wilayah kelurahan/kecamatannya
+- Sebagai pelengkap hotline gawat darurat dari pemerintah 119
+
 ##Gambaran pemakaian
 - Kamu mengalami keadaan gawat darurat tapi ngga punya kontak ambulan + ngga tau mana yg paling dekat supaya bisa cepat sampai
 - Kamu buka situs ambulanKu, yang nanti akan minta akses lokasi untuk memeriksa kontak ambulan terdekat di wilayah kelurahan/kecamatan tempat kamu tinggal

@@ -9,7 +9,7 @@ Bisa bantu kamu cari ambulan paling dekat dari rumah
 
 ##Gambaran pemakaian
 - Kamu mengalami keadaan gawat darurat tapi ngga punya kontak ambulan + ngga tau mana yg paling dekat supaya bisa cepat sampai
-- Kamu buka situs ambulanKu, yang nanti akan minta akses lokasi untuk memeriksa kontak ambulan terdekat di wilayah kelurahan/kecamatan tempat kamu tinggal
+- Kamu buka situs ambulanKu, yang nanti akan minta akses lokasi untuk memeriksa kontak ambulan terdekat di wilayah kelurahan/kecamatan tempat kamu tinggal atau kamu juga bisa mencetak daftar ambulan di radius kecamatan tempat kamu tinggal, untuk memudahkan ketika tidak ada akses internet atau kesulitan mengakses website
 - Pilih dan hubungi penyedia ambulan yang dibutuhkan
 
 ##To-do list
